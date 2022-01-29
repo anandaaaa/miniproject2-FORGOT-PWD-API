@@ -1,0 +1,12 @@
+Hi {FNAME},
+<br/>
+
+Hi welcome to yeswanth page
+<br/>
+
+Your  passowrd:{TEMP-PWD}<br/>
+
+<br/>
+This is your Forgot password
+<br/>
+
